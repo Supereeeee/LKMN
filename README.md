@@ -53,7 +53,7 @@ For more training commands and details, please check the docs in [BasicSR](https
 
 
 ## Acknowledgement
-This code is based on [BasicSR](https://github.com/XPixelGroup/BasicSR) toolbox. Thanks for the awesome work.
+This paper and code is based on [PLKSR](https://github.com/dslisleedh/PLKSR/tree/main) and [BasicSR](https://github.com/XPixelGroup/BasicSR). Thanks for the awesome work.
 
 ## Contact
 If you have any question, please email quanwei1277@163.com.
